@@ -2,7 +2,7 @@
   <div>
     <b-container>
       <b-jumbotron
-        header="Welcome to my Page"
+        header="Welcome"
         lead="Computer World">
       </b-jumbotron>
       <b-container class="bv-example-row">
